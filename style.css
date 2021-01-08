@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav h2{
+    font-size: 35px;
+    font-weight: 600;
+}
+.container{
+    width: 960px;
+    margin: auto;
+    background-color: #FFFFFF;
+}
+.fleft{
+    float: left;
+}
+.fright{
+    float: right;
+}
+nav{
+    color: #9797A4;
+    padding: 2% 0;
+}
+nav li{
+    padding: 2% 2%;
+    float: right;
+    list-style: none;
+    margin-top: -3.5rem;
+    border-bottom: 1px solid #DEDEDE;
+    border-top: 1px solid #DEDEDE;
+}
+nav li:hover{
+    color: #FF9900;
+}
+.container .mainbox a{
+    display: block;
+    padding: 9px;
+    border: 1px solid #DEDEDE;
+}
+.container .mainbox a:hover{
+    border-color: #FF9900;
+}
+.box{
+    width: 300px;
+    margin: 10px;
+    padding-top: 25px;
+}
+ .box h2{
+    color: #9797A4;
+    font-size: 14px;
+    padding: 8px 0;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #DEDEDE;
+}
+.box img{
+    margin: 0 10px 10px 0;
+    padding: 4px;
+    border: 1px solid #DEDEDE;
+}
+ p{
+   color: #9797A4;
+   line-height: 1.6em;
+}
+.box li{
+       list-style-type: none;
+       border-bottom: 1px dotted #9797A4;
+       padding: 10px;
+    }
+    .box li a{
+        
+        text-decoration: none;
+        color: #9797A4;
+        margin-left: 10px; 
+    }
+.box li i{
+    color: #FF9900;
+}
+ .co{
+    color: #FF9900;
+    text-decoration: none;
+    margin-top: 15px;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: 900;
+    padding-bottom: 25px;
+}
+.box2 span{
+    color: #FF9900;
+}
+.box2{
+    width: 640px;
+    overflow: auto;
+}
+.box2 h2{
+    color: #9797A4;
+    font-size: 14px;
+    padding: 8px 0;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.box3{
+    width: 300px;
+    padding-left: 20px;
+}
+.box3 h2{
+    color: #9797A4;
+    font-size: 14px;
+    padding: 8px 0;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #DEDEDE;
+}
+address{
+    color: #9797A4;
+}
+address a{
+    text-decoration: none;
+    color: #FF9900;
+}
+ .foot {
+    clear: both;
+    border-top: 1px solid #DEDEDE;
+}
+footer span{
+    padding: 15px;
+    color: #9797A4;
+}
+
